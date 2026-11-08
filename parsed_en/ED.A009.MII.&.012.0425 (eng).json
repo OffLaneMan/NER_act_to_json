@@ -1,0 +1,2789 @@
+{
+  "id": "ED.A009.MII.&.012.0425 (eng)",
+  "headers": [
+    {
+      "source": "word/header1.xml",
+      "lines": [
+        "Unit №: 1,2 Date of inspection: 23.10.2023",
+        "Incoming Inspection Certificate of Materials on the Site № ED.A009.MII.&.012.0425",
+        "Pages from 5 to 6 with Attachments on 15 pages"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+      "anchor": null
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Manufacturer: JSC \"Technopleks Plant\";\"Mosstroy-31 Voronezh\";JSC \"Lit plant\"",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "Organized by:Starostenko Alexander",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/23-P Dated: 30-05-2022",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name of Materials",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "KKS",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Safety class",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "QAcategory",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "text": "Quantity",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "text": "Batch number",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "1",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "4",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "5",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "text": "6",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "text": "7",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "text": "28,836 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "text": "15,600 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "text": "1350,00 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "text": "12,8156 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "text": "16,0204 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "text": "1080 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 5,
+          "text": "16,2 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 5,
+          "text": "14,418 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 5,
+          "text": "14,4 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 5,
+          "text": "2592 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 5,
+          "text": "14,418 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 5,
+          "text": "14,4 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 5,
+          "text": "2682 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 5,
+          "text": "11,1916 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 5,
+          "text": "3,2264 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 5,
+          "text": "13,20 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 5,
+          "text": "738 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 5,
+          "text": "1908 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 5,
+          "text": "14,418 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 5,
+          "text": "13,800 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 5,
+          "text": "0,600 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 5,
+          "text": "2682,000 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 0,
+          "text": "Extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm TECHNONICOL",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 1,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 5,
+          "text": "12,282 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 6,
+          "text": "57719/2/4;57734/2/1;56684/2/2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 5,
+          "text": "1350,0 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 0,
+          "text": "Penofol A10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 1,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 5,
+          "text": "1314 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 6,
+          "text": "646;859;875;1016;1018;1019;1020;1024;1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 0,
+          "text": "Heat-insulating polystyrene foam plates PPS12-R-A-1000x1000x60",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 1,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 5,
+          "text": "10,8 m3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 6,
+          "text": "829/205;837/205",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name and number of the document that certifies quality:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Manufacturing date:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "Consignment notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Detail Design document:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "Notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "8",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "9",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "11",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "12",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Quality passport №57719",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "18.05.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Quality passport №57734",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "20.05.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Quality passport №56684",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "09.02.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "STO 72746455-3.3.1-2012",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Passport №1451",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "24.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Passport №1400",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "17.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "text": "GOST 15588-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Passport №875",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "text": "19.07.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Passport №1016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "11.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "Passport №1018",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "Passport №1019",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "Passport №1020",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "Passport №1024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 0,
+          "text": "Passport №1098",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 1,
+          "text": "28.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 2,
+          "text": "Packing list №3131-08/2023 dated 31.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 3,
+          "text": "TU 2244-056-04696843-2001;GOST R 56729-2015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "2. As a result of inspection were revealed following:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "2.1 Remarks for accompanying documents (none, or give comments): 1) There is no original passport №1400 dated 17.08.2023.2) There are not provided documents confirming the quality of Penofol A10 with the batch number 646, 859.",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "2.2. Remarks for visual, measurement and other inspections including Material’s completeness (none, or give comments):1) Actual amount of polystyrene foam heat insulation plates is 101,4 m3. Less quantity is indicated in the packing list.2) Actual amount of extruded polystyrene foam XPS Carbon ECO 1180x580x30 mm is 129,721 m3. Less quantity is indicated in the packing list.",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Conclusion:MATERIALS                         ☐ ACCEPTED                          ☒ REJECTED",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Attachments:1. Quality passport №57719 dated 18.05.2023 (1 page);2. Quality passport №57734 dated 20.05.2023 (1 page);3. Quality passport №56684 dated 09.02.2023 (1 page);4. Passport №1451 dated 24.08.2023 (1 page);5. Passport №1400 dated 17.08.2023 (1 page);6. Passport №875 dated 19.07.2023 (1 page);7. Passport №1016 dated 11.08.2023 (1 page);8. Passport №1018 dated 14.08.2023 (1 page);9. Passport №1019 dated 14.08.2023 (1 page);10. Passport №1020 dated 14.08.2023 (1 page);11. Passport №1024 dated 14.08.2023 (1 page);12. Passport №1098 dated 28.08.2023 (1 page);13. Packing list №3131-08/2023 dated 31.08.2023 (3 pages).",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Representatives of Commission:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Company",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "Position",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "Name of representatives",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "Date",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "Signature",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "Chief Engineer",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "Starostenko Alexander",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "23.10.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "Team leader of the quality control department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "Voilau Andrei",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "23.10.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "Specialist of the Incoming Control Department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "Burbul Marta",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "23.10.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "Leading Specialist OMTO",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "Dunaev Konstantin",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "23.10.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    }
+  ]
+}

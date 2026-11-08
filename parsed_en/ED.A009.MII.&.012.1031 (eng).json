@@ -1,0 +1,5102 @@
+{
+  "id": "ED.A009.MII.&.012.1031 (eng)",
+  "headers": [
+    {
+      "source": "word/header1.xml",
+      "lines": [
+        "Unit №: 1, 2 Date of inspection: 25.08.2024",
+        "Incoming Inspection Certificate of Materials on the Site № ED.A009.MII.&.012.1031",
+        "Pages from 1 to 1 with Attachments on 99 pages"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+      "anchor": null
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Manufacturer: AESW/ АЭМЗ;LLC \"SATOMS\"",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "Organized by:Starostenko Aleksandr",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/724-P Dated: 21-12-2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name of Materials",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "KKS",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Safety class",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "QAcategory",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "text": "Quantity",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "text": "Batch number",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "1",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "4",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "5",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "text": "6",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "text": "7",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Reinforcement grade/Пруток А500CEU Ø20",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "text": "1000669 kg/кг",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "text": "24K312667;24K133105; 24K235357; 24K312667;24K133105; 24K235357;24K133066; 24K133105; 24K235389;24K235389; 24K312665;24K312665;24K133105; 24K235157; 24K312667;24K133066; 24K133105; 24K235357; 24K235389;24K133066; 24K235389; 24K312665;24K312665; 24K312678;24K133105; 24K235157; 24K312667; 24K312678;24K312678;24K312677; 24K312678;24K312677;24K133066; 24K312678;24K133105; 24K235357; 24K312667; 24K312677;24K235357;24K133105;24K133066; 24K235389;24K133066; 24K133105",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Reinforcement grade/Пруток А500CEU Ø25",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "text": "1601007 kg/кг",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "text": "24K234713; 24K234760; 24K234820;24K234713; 24K234820;24K234713; 24K234759; 24K234760;24K234713; 24K234717; 24K234759; 24K234760;24K234717;24K234727; 24K234755; 24K234759;24K234717; 24K234727;24K132544; 24K234712; 24K234717;24K132544; 24K234712;24K132429; 24K132544; 24K234717;24K234712;24K132429; 24K132544; 24K234712; 24K312030;24K132428; 24K132429; 24K132530; 24K132544;24K132544;24K132429; 24K132530; 24K234760;24K132530; 24K132537;24K132429; 24K132530; 24K132544;24K132530; 24K132544;24K132530; 24K132537; 24K132542; 24K132544;24K132530; 24K132542;24K132537; 24K132542;24K132542;24K132429; 24K132537;24K132537;24K132428; 24K132429; 24K132530;24K132428; 24K132429;24K132429;24K132428; 24K132429; 24K234725; 24K234726;24K234725;24K234725; 24K234726;24K234724;24K234724; 24K234725;24K234725; 24K234726; 24K234749; 24K234755;24K234725; 24K234749; 24K234755;2404218; 2404247; 24K234724;2403462; 2403463; 2404218;2404217; 2404218; 24K133052; 24K234725;24K234755;24K133052",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name and number of the document that certifies quality:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Manufacturing date:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "Consignment notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Detail Design document:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "Notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "8",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "9",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "11",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "12",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126955",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126956",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126957",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126961",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126963",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126964",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126967",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126973",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126974",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126975",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126977",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126978",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 13,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126979",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 14,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126980",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 15,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126984",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 16,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126985",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 17,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126988",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 18,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126993",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 19,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0126995",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 20,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127002",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 21,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127006",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 22,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127007",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 23,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127010",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 24,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127013",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 25,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127015",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 26,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127018",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 27,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 28,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127020",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 28,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 28,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 28,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 28,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 29,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 29,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 29,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 29,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 29,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 30,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127025",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 30,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 30,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 30,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 30,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 31,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127026",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 31,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 31,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 31,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 31,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 32,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127027",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 32,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 32,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 32,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 32,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 33,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127028",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 33,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 33,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 33,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 33,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 34,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127031",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 34,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 34,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 34,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 34,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 35,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127033",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 35,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 35,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 35,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 35,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 36,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127034",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 36,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 36,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 36,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 36,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 37,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127038",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 37,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 37,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 37,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 37,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 38,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127039",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 38,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 38,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 38,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 38,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 39,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127040",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 39,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 39,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 39,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 39,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 40,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127042",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 40,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 40,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 40,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 40,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 41,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127043",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 41,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 41,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 41,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 41,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 42,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127077",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 42,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 42,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 42,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 42,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 43,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127078",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 43,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 43,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 43,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 43,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 44,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127082",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 44,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 44,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 44,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 44,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 45,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127083",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 45,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 45,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 45,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 45,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 46,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127089",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 46,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 46,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 46,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 46,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 47,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127093",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 47,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 47,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 47,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 47,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 48,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127095",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 48,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 48,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 48,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 48,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 49,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127099",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 49,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 49,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 49,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 49,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 50,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127101",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 50,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 50,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 50,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 50,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 51,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127103",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 51,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 51,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 51,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 51,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 52,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127105",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 52,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 52,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 52,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 52,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 53,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127119",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 53,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 53,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 53,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 53,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 54,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127120",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 54,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 54,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 54,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 54,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 55,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127121",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 55,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 55,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 55,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 55,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 56,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127111",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 56,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 56,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 56,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 56,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 57,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127123",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 57,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 57,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 57,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 57,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 58,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127128",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 58,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 58,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 58,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 58,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 59,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127129",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 59,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 59,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 59,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 59,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 60,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127131",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 60,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 60,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 60,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 60,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 61,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127137",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 61,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 61,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 61,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 61,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 62,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127141",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 62,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 62,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 62,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 62,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 63,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127148",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 63,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 63,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 63,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 63,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 64,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127155",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 64,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 64,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 64,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 64,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 65,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127157",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 65,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 65,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 65,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 65,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 66,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127170",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 66,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 66,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 66,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 66,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 67,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127178",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 67,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 67,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 67,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 67,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 68,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127196",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 68,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 68,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 68,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 68,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 69,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127204",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 69,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 69,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 69,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 69,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 70,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127220",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 70,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 70,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 70,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 70,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 71,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127235",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 71,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 71,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 71,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 71,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 72,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127237",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 72,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 72,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 72,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 72,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 73,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127239",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 73,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 73,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 73,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 73,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 74,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127241",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 74,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 74,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 74,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 74,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 75,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127246",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 75,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 75,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 75,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 75,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 76,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127249",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 76,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 76,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 76,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 76,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 77,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127251",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 77,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 77,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 77,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 77,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 78,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127253",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 78,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 78,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 78,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 78,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 79,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127255",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 79,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 79,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 79,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 79,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 80,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127258",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 80,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 80,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 80,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 80,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 81,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127261",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 81,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 81,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 81,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 81,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 82,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127267",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 82,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 82,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 82,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 82,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 83,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127280",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 83,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 83,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 83,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 83,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 84,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127285",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 84,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 84,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 84,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 84,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 85,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127308",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 85,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 85,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 85,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 85,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 86,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127299",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 86,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 86,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 86,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 86,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 87,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127300",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 87,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 87,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 87,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 87,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 88,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127304",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 88,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 88,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 88,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 88,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 89,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127306",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 89,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 89,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 89,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 89,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 90,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127307",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 90,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 90,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 90,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 90,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 91,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127310",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 91,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 91,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 91,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 91,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 92,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127311",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 92,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 92,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 92,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 92,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 93,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127317",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 93,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 93,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 93,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 93,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 94,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127320",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 94,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 94,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 94,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 94,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 95,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127324",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 95,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 95,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 95,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 95,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 96,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127386",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 96,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 96,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 96,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 96,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 97,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127431",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 97,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 97,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 97,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 97,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 98,
+          "col": 0,
+          "text": "Quality certificate/ Сертификат качества № 0127455",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 98,
+          "col": 1,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 98,
+          "col": 2,
+          "text": "Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 98,
+          "col": 3,
+          "text": "GOST/ГОСТ 34028-2016",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 98,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "2. As a result of inspection were revealed following:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "2.1 Remarks for accompanying documents (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "2.2. Remarks for visual, measurement and other inspections including Material’s completeness (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Conclusion:MATERIALS                         ☒ ACCEPTED                          ☐ REJECTED",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Attachments:1. Quality certificate/ Сертификат качества № 0126955 dated 23.06.2024 (1 page);2. Quality certificate/ Сертификат качества № 0126956 dated 23.06.2024 (1 page);3. Quality certificate/ Сертификат качества № 0126957 dated 23.06.2024 (1 page);4. Quality certificate/ Сертификат качества № 0126961 dated 23.06.2024 (1 page);5. Quality certificate/ Сертификат качества № 0126963 dated 23.06.2024 (1 page);6. Quality certificate/ Сертификат качества № 0126964 dated 23.06.2024 (1 page);7. Quality certificate/ Сертификат качества № 0126967 dated 23.06.2024 (1 page);8. Quality certificate/ Сертификат качества № 0126973 dated 23.06.2024 (1 page);9. Quality certificate/ Сертификат качества № 0126974 dated 23.06.2024 (1 page);10. Quality certificate/ Сертификат качества № 0126975 dated 23.06.2024 (1 page);11. Quality certificate/ Сертификат качества № 0126977 dated 23.06.2024 (1 page);12. Quality certificate/ Сертификат качества № 0126978 dated 23.06.2024 (1 page);13. Quality certificate/ Сертификат качества № 0126979 dated 23.06.2024 (1 page);14. Quality certificate/ Сертификат качества № 0126980 dated 23.06.2024 (1 page);15. Quality certificate/ Сертификат качества № 0126984 dated 23.06.2024 (1 page);16. Quality certificate/ Сертификат качества № 0126985 dated 23.06.2024 (1 page);17. Quality certificate/ Сертификат качества № 0126988 dated 23.06.2024 (1 page);18. Quality certificate/ Сертификат качества № 0126993 dated 23.06.2024 (1 page);19. Quality certificate/ Сертификат качества № 0126995 dated 23.06.2024 (1 page);20. Quality certificate/ Сертификат качества № 0127002 dated 23.06.2024 (1 page);21. Quality certificate/ Сертификат качества № 0127006 dated 23.06.2024 (1 page);22. Quality certificate/ Сертификат качества № 0127007 dated 23.06.2024 (1 page);23. Quality certificate/ Сертификат качества № 0127010 dated 23.06.2024 (1 page);24. Quality certificate/ Сертификат качества № 0127013 dated 23.06.2024 (1 page);25. Quality certificate/ Сертификат качества № 0127015 dated 23.06.2024 (1 page);26. Quality certificate/ Сертификат качества № 0127018 dated 24.06.2024 (1 page);27. Quality certificate/ Сертификат качества № 0127020 dated 24.06.2024 (1 page);28. Quality certificate/ Сертификат качества № 0127023 dated 24.06.2024 (1 page);29. Quality certificate/ Сертификат качества № 0127025 dated 24.06.2024 (1 page);30. Quality certificate/ Сертификат качества № 0127026 dated 24.06.2024 (1 page);31. Quality certificate/ Сертификат качества № 0127027 dated 24.06.2024 (1 page);32. Quality certificate/ Сертификат качества № 0127028 dated 24.06.2024 (1 page);33. Quality certificate/ Сертификат качества № 0127031 dated 24.06.2024 (1 page);34. Quality certificate/ Сертификат качества № 0127033 dated 24.06.2024 (1 page);35. Quality certificate/ Сертификат качества № 0127034 dated 24.06.2024 (1 page);36. Quality certificate/ Сертификат качества № 0127038 dated 24.06.2024 (1 page);37. Quality certificate/ Сертификат качества № 0127039 dated 24.06.2024 (1 page);38. Quality certificate/ Сертификат качества № 0127040 dated 24.06.2024 (1 page);39. Quality certificate/ Сертификат качества № 0127042 dated 24.06.2024 (1 page);40. Quality certificate/ Сертификат качества № 0127043 dated 24.06.2024 (1 page);41. Quality certificate/ Сертификат качества № 0127077 dated 24.06.2024 (1 page);42. Quality certificate/ Сертификат качества № 0127078 dated 24.06.2024 (1 page);43. Quality certificate/ Сертификат качества № 0127082 dated 24.06.2024 (1 page);44. Quality certificate/ Сертификат качества № 0127083 dated 24.06.2024 (1 page);45. Quality certificate/ Сертификат качества № 0127089 dated 24.06.2024 (1 page);46. Quality certificate/ Сертификат качества № 0127093 dated 24.06.2024 (1 page);47. Quality certificate/ Сертификат качества № 0127095 dated 24.06.2024 (1 page);48. Quality certificate/ Сертификат качества № 0127099 dated 24.06.2024 (1 page);49. Quality certificate/ Сертификат качества № 0127101 dated 24.06.2024 (1 page);50. Quality certificate/ Сертификат качества № 0127103 dated 24.06.2024 (1 page);51. Quality certificate/ Сертификат качества № 0127105 dated 24.06.2024 (1 page);52. Quality certificate/ Сертификат качества № 0127119 dated 24.06.2024 (1 page);53. Quality certificate/ Сертификат качества № 0127120 dated 24.06.2024 (1 page);54. Quality certificate/ Сертификат качества № 0127121 dated 24.06.2024 (1 page);55. Quality certificate/ Сертификат качества № 0127111 dated 24.06.2024 (1 page);56. Quality certificate/ Сертификат качества № 0127123 dated 24.06.2024 (1 page);57. Quality certificate/ Сертификат качества № 0127128 dated 24.06.2024 (1 page);58. Quality certificate/ Сертификат качества № 0127129 dated 24.06.2024 (1 page);59. Quality certificate/ Сертификат качества № 0127131 dated 24.06.2024 (1 page);60. Quality certificate/ Сертификат качества № 0127137 dated 24.06.2024 (1 page);61. Quality certificate/ Сертификат качества № 0127141 dated 24.06.2024 (1 page);62. Quality certificate/ Сертификат качества № 0127148 dated 24.06.2024 (1 page);63. Quality certificate/ Сертификат качества № 0127155 dated 24.06.2024 (1 page);64. Quality certificate/ Сертификат качества № 0127157 dated 24.06.2024 (1 page);65. Quality certificate/ Сертификат качества № 0127170 dated 24.06.2024 (1 page);66. Quality certificate/ Сертификат качества № 0127178 dated 24.06.2024 (1 page);67. Quality certificate/ Сертификат качества № 0127196 dated 24.06.2024 (1 page);68. Quality certificate/ Сертификат качества № 0127204 dated 24.06.2024 (1 page);69. Quality certificate/ Сертификат качества № 0127220 dated 24.06.2024 (1 page);70. Quality certificate/ Сертификат качества № 0127235 dated 24.06.2024 (1 page);71. Quality certificate/ Сертификат качества № 0127237 dated 24.06.2024 (1 page);72. Quality certificate/ Сертификат качества № 0127239 dated 24.06.2024 (1 page);73. Quality certificate/ Сертификат качества № 0127241 dated 24.06.2024 (1 page);74. Quality certificate/ Сертификат качества № 0127246 dated 24.06.2024 (1 page);75. Quality certificate/ Сертификат качества № 0127249 dated 24.06.2024 (1 page);76. Quality certificate/ Сертификат качества № 0127251 dated 24.06.2024 (1 page);77. Quality certificate/ Сертификат качества № 0127253 dated 24.06.2024 (1 page);78. Quality certificate/ Сертификат качества № 0127255 dated 24.06.2024 (1 page);79. Quality certificate/ Сертификат качества № 0127258 dated 24.06.2024 (1 page);80. Quality certificate/ Сертификат качества № 0127261 dated 24.06.2024 (1 page);81. Quality certificate/ Сертификат качества № 0127267 dated 24.06.2024 (1 page);82. Quality certificate/ Сертификат качества № 0127280 dated 24.06.2024 (1 page);83. Quality certificate/ Сертификат качества № 0127285 dated 25.06.2024 (1 page);84. Quality certificate/ Сертификат качества № 0127308 dated 25.06.2024 (1 page);85. Quality certificate/ Сертификат качества № 0127299 dated 25.06.2024 (1 page);86. Quality certificate/ Сертификат качества № 0127300 dated 25.06.2024 (1 page);87. Quality certificate/ Сертификат качества № 0127304 dated 25.06.2024 (1 page);88. Quality certificate/ Сертификат качества № 0127306 dated 25.06.2024 (1 page);89. Quality certificate/ Сертификат качества № 0127307 dated 25.06.2024 (1 page);90. Quality certificate/ Сертификат качества № 0127310 dated 25.06.2024 (1 page);91. Quality certificate/ Сертификат качества № 0127311 dated 25.06.2024 (1 page);92. Quality certificate/ Сертификат качества № 0127317 dated 25.06.2024 (1 page);93. Quality certificate/ Сертификат качества № 0127320 dated 25.06.2024 (1 page);94. Quality certificate/ Сертификат качества № 0127324 dated 25.06.2024 (1 page);95. Quality certificate/ Сертификат качества № 0127386 dated 25.06.2024 (1 page);96. Quality certificate/ Сертификат качества № 0127431 dated 25.06.2024 (1 page);97. Quality certificate/ Сертификат качества № 0127455 dated 25.06.2024 (1 page);98. Packing list/ Упаковочный лис №2727-07/2024 dated 27.07.2024 (2 pages).",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Representatives of Commission:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Company",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "Position",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "Name of representatives",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "Date",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "Signature",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "Chief Engineer",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "Starostenko Aleksandr",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "25.08.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "Head of the Quality Assurance Department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "Skirukha Vadzim",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "25.08.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "Chief Specialist of the Product Verification Department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "Poddubnyi Sergei",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "25.08.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "Chief Specialist for the supply of basic materials",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "Samarov Andrei",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "25.08.2024",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    }
+  ]
+}

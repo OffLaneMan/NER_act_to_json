@@ -1,0 +1,872 @@
+{
+  "id": "ED.A009.MII.&.012.0306 (eng) от 17.08.2023 - в 11.02",
+  "headers": [
+    {
+      "source": "word/header1.xml",
+      "lines": [
+        "Unit №: 1,2 Date of inspection: 17.08.2023",
+        "Incoming Inspection Certificate of Materials on the Site № ED.A009.MII.&.012.0306",
+        "Pages from 1 to 1 with Attachments on 9 pages"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+      "anchor": null
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Manufacturer: Erico",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "Organized by:Starostenko Alexander",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/23-P Dated: 30-05-2022",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+          "gridspan": 3,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name of Materials",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "KKS",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Safety class",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "QAcategory",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "text": "Quantity",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "text": "Batch number",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "1",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "2",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "3",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "4",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "5",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "text": "6",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "text": "7",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Welding consumable for exothermic welding type 150PLUSF20",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "IEEE 837-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "text": "88 pcs",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "text": "16755;16667;16308;16292;16721;16091;13209",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Welding consumable for exothermic welding type 115PLUSF20",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "IEEE 837-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "text": "264 pcs",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "text": "16755;16667;16308;16292;16721;16091;13209",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Name and number of the document that certifies quality:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Manufacturing date:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "Consignment notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Detail Design document:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "text": "Notes:",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "8",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "9",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "10",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "11",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "12",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Cadweld plus Passport N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "Act №1 dated 14.08.2023;;Act №1 dated 14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": ";IEEE 837-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Certificate of compliance",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "2014-October-15",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "Act №1 dated 14.08.2023;;Act №1 dated 14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": ";IEEE 837-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Declaration of Conformity",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "2014-October-15",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "Act №1 dated 14.08.2023;;Act №1 dated 14.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": ";IEEE 837-2014",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "N/A",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "anchor": null,
+      "rows": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "2. As a result of inspection were revealed following:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": true,
+          "anchor": null
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "2.1 Remarks for accompanying documents (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "2.2. Remarks for visual, measurement and other inspections including Material’s completeness (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Conclusion:MATERIALS                         ☒ ACCEPTED                          ☐ REJECTED",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Attachments:1. Cadweld plus Passport N/A dated N (7 pages);2. Certificate of compliance dated 2014-October-15 (1 page);3. Declaration of Conformity dated 2014-October-15 (1 page);4. Act №1 dated 14.08.2023.",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Representatives of Commission:",
+          "gridspan": 5,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "Company",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "Position",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "Name of representatives",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "Date",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "Signature",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "Chief Engineer",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "Starostenko Alexander",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "17.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "Head of the Incoming Control Department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "Skirukha Vadzim",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "17.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "Head of the chief welder's department",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "Kanishchev Ivan Ivanovich",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "17.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "NIKIMT-Atomstroy JSC",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "Leading Specialist OMTO",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "Nedelkin Maksim",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "17.08.2023",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "",
+          "gridspan": 1,
+          "vmerge": null,
+          "is_header": false,
+          "anchor": null
+        }
+      ]
+    }
+  ]
+}
