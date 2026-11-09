@@ -1,0 +1,2913 @@
+{
+    "id": "ED.A009.MII.&.012.1185 (eng)",
+    "headers": {
+        "source": "word/header1.xml",
+        "lines": [
+            "Unit No: SMB Date of inspection: 2024-12-01",
+            "Incoming Inspection Certificate of Materials on the Site No ED.A009.MII.&.012.1185",
+            "Pages from 1 to 1 with Attachments on 99 pages"
+        ]
+    },
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+            "anchor": null
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: \"ALTO GRUPP\" LLC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: No 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order: NIKIMT-Atomstroy JSC No 39-300/814-P Dated: 25-09-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "KKS",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "QAcategory",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 5,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 6,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 5,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 6,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 project \"Plaza for enlarged assembly\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Плаз для укрупненной сборки\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 5,
+                    "text": "2352 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 Simulator \"Bunker\" project/Металлоконструкции по проекту РД 039-23788-Р-КМЗ Тренажер \"Бункер\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 5,
+                    "text": "1634 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 project \"Duct installation stand\"/Металлоконструкции по проекту РД 039-23788-Р-КМЗ \"Стенд монтажа воздуховодов\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 5,
+                    "text": "2146 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM3 \"Mobile partition\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Перегородка передвижная\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 5,
+                    "text": "888 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM3 Simulator \"Tower\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 Тренажер \"Вышка\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 5,
+                    "text": "147 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM3 \"Lightning protection mast\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Мачта молниезащиты\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 5,
+                    "text": "78 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM3 Simulator \"Polosaevsky\"/Металлоконструкции по проекту РД 039-23788-Р-КМЗ Тренажер \"Полоса препятствий\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 5,
+                    "text": "2083 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM2 \"Vstroika\"/Металлоконструкции по проекту РД 039-23788-Р-КМ2 \"Встройка\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ2/РД 039-23788-Р-КМ2;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 5,
+                    "text": "9618 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 project \"Bed for the VC-14-46 fan\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Станина для вентилятора ВЦ-14-46\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 5,
+                    "text": "93 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 Simulator \"Equipment\" project/Металлоконструкции по проекту РД 039-23788-Р-КМЗ Тренажер \"Оборудование\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 5,
+                    "text": "607 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 project \"Metal frame for ventilation installation P2, B2, B3, P4\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Металлическая рама для вентиляционной установки П2, В2, В3, П4\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 5,
+                    "text": "365 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 0,
+                    "text": "Metal structures according to the RD 039-23788-R-KM3 project \"Metal frame for ventilation packaging P2, B2/Металлоконструкции по проекту РД 039-23788-Р-КМЗ \"Металлическая рама для вентиляционной упаковки П2, В2.",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 5,
+                    "text": "394 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 0,
+                    "text": "Metal structures according to the project RD 039-23788-R-KM3 \"Mobile partition\"/Металлоконструкции по проекту РД 039-23788-Р-КМ3 \"Перегородка передвижная\"",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 1,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 5,
+                    "text": "1240 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Manufacturing date:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Detail Design document:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "12",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-28",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No28",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "2024-09-09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No32",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "2024-09-10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-23",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No23",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "2024-09-09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No27",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "2024-09-11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-22",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No22",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "2024-08-18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "2024-08-19",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-32",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02;Packing list / Упаковочный лист No 0101-11/2024 dated 2024-11-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No36",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "2024-09-10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02;Packing list / Упаковочный лист No 0101-11/2024 dated 2024-11-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No32",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 1,
+                    "text": "2024-09-09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02;Packing list / Упаковочный лист No 0101-11/2024 dated 2024-11-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 1,
+                    "text": "2024-08-18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No30",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 1,
+                    "text": "2024-08-19",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 17,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-31",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 17,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 17,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 17,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 17,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 18,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No35",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 18,
+                    "col": 1,
+                    "text": "2024-08-19",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 18,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 18,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 18,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 19,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No31",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 19,
+                    "col": 1,
+                    "text": "2024-08-18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 19,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 19,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 19,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 20,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-24",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 20,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 20,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 20,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 20,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 21,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No24",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 21,
+                    "col": 1,
+                    "text": "2024-09-09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 21,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 21,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 21,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 22,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No28",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 22,
+                    "col": 1,
+                    "text": "2024-09-11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 22,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 22,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 22,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 23,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-21",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 23,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 23,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 23,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ2/РД 039-23788-Р-КМ2;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 23,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 24,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No21",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 24,
+                    "col": 1,
+                    "text": "2024-08-18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 24,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 24,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ2/РД 039-23788-Р-КМ2;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 24,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 25,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No25",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 25,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 25,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 25,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ2/РД 039-23788-Р-КМ2;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 25,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 26,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-29",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 26,
+                    "col": 1,
+                    "text": "2024-08-20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 26,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 26,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 26,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 27,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No33",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 27,
+                    "col": 1,
+                    "text": "2024-08-19",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 27,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 27,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 27,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 28,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No29",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 28,
+                    "col": 1,
+                    "text": "2024-08-18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 28,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 28,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 28,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 29,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-25",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 29,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 29,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 29,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 29,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 30,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No29",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 30,
+                    "col": 1,
+                    "text": "2024-09-12",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 30,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 30,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 30,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 31,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No25",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 31,
+                    "col": 1,
+                    "text": "2024-09-11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 31,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 31,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 31,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 32,
+                    "col": 0,
+                    "text": "Document on the quality of steel buiding structures/Документ о качестве стальных строительных конструкций No24-30",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 32,
+                    "col": 1,
+                    "text": "2024-09-13",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 32,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 32,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 32,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 33,
+                    "col": 0,
+                    "text": "Act visual and measuring control/Акт визуального и измерительного контроля No34",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 33,
+                    "col": 1,
+                    "text": "2024-09-10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 33,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 33,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 33,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 34,
+                    "col": 0,
+                    "text": "Act acceptance of the protective coating/Акт приемки защитного покрытия No30",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 34,
+                    "col": 1,
+                    "text": "2024-09-09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 34,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 34,
+                    "col": 3,
+                    "text": "RD 039-23788-R-KМ3/РД 039-23788-Р-КМ3;GOST 23118-2012/ГОСТ 23118-2012;SP 53-101-98/СП 53-101-98",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 34,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. As a result of inspection were revealed following:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks for accompanying documents (none, or give comments): 1. Scans of incorrectly certified documents for steel construction materials in Russian language were provided/ Предоставлены сканы некорректно заверенных документов на материалы стальных строительных конструкций на русском языке. Не предоставлены оригиналы либо заверенные копии документов о качестве на русском и английском языках.2. Incorrectly certified drawing of metal detailing structures in Russian language is provided/ Предоставлен некорректно заверенный чертеж конструкций металлических деталировочных (КМД) на русском языке.3. According to Section 5 of Technical Assignment No. 1075-ARE-2024, quality and KMD documents shall be provided in Russian and English languages/ Согласно разделу 5 Технического задания No 1075-АРЕ-2024 документы о качестве и КМД предоставляется на русском и английском языках.",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Material's completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ПУСТОТА ACCEPTED ГАЛОЧКА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-28 dated 2024-09-13 (3 pages);2. Act visual and measuring control/Акт визуального и измерительного контроля No28 dated 2024-09-09 (2 pages);3. Act acceptance of the protective coating/Акт приемки защитного покрытия No32 dated 2024-09-10 (2 pages);4. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-23 dated 2024-09-13 (4 pages);5. Act visual and measuring control/Акт визуального и измерительного контроля No23 dated 2024-09-09 (3 pages);6. Act acceptance of the protective coating/Акт приемки защитного покрытия No27 dated 2024-09-11 (2 pages);7. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-22 dated 2024-08-20 (3 pages);8. Act visual and measuring control/Акт визуального и измерительного контроля No22 dated 2024-08-18 (2 pages);9. Act acceptance of the protective coating/Акт приемки защитного покрытия No26 dated 2024-08-19 (2 pages);10. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-32 dated 2024-09-13 (3 pages);11. Act visual and measuring control/Акт визуального и измерительного контроля No36 dated 2024-09-10 (2 pages);12. Act acceptance of the protective coating/Акт приемки защитного покрытия No32 dated 2024-09-09 (2 pages);13. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-26 dated 2024-08-20 (5 pages);14. Act visual and measuring control/Акт визуального и измерительного контроля No26 dated 2024-08-18 (4 pages);15. Act acceptance of the protective coating/Акт приемки защитного покрытия No30 dated 2024-08-19 (3 pages);16. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-31 dated 2024-08-20 (3 pages);17. Act visual and measuring control/Акт визуального и измерительного контроля No35 dated 2024-08-19 (2 pages);18. Act acceptance of the protective coating/Акт приемки защитного покрытия No31 dated 2024-08-18 (2 pages);19. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-24 dated 2024-09-13 (4 pages);20. Act visual and measuring control/Акт визуального и измерительного контроля No24 dated 2024-09-09 (3 pages);21. Act acceptance of the protective coating/Акт приемки защитного покрытия No28 dated 2024-09-11 (2 pages);22. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-21 dated 2024-08-20 (5 pages);23. Act visual and measuring control/Акт визуального и измерительного контроля No21 dated 2024-08-18 (4 pages);24. Act acceptance of the protective coating/Акт приемки защитного покрытия No25 dated 2024-08-20 (3 pages);25. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-29 dated 2024-08-20 (3 pages);26. Act visual and measuring control/Акт визуального и измерительного контроля No33 dated 2024-08-19 (2 pages);27. Act acceptance of the protective coating/Акт приемки защитного покрытия No29 dated 2024-08-18 (2 pages);28. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-25 dated 2024-09-13 (3 pages);29. Act visual and measuring control/Акт визуального и измерительного контроля No29 dated 2024-09-12 (2 pages);30. Act acceptance of the protective coating/Акт приемки защитного покрытия No25 dated 2024-09-11 (2 pages);31. Document on the quality of steel buiding structures/Документ о качестве стальных строительных контрукций No24-30 dated 2024-09-13 (3 pages);32. Act visual and measuring control/Акт визуального и измерительного контроля No34 dated 2024-09-10 (2 pages);33. Act acceptance of the protective coating/Акт приемки защитного покрытия No30 dated 2024-09-09 (3 pages);34. Packing list / Упаковочный лист No 0202-11/2024 dated 2024-11-02 (3 pages);35. Packing list / Упаковочный лист No 0101-11/2024 dated 2024-11-01 (4 pages).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives of Commission:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Deputy Director for Quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "2024-12-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Head of the Quality Assurance Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Skirukha Vadzim",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "2024-12-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Chief Specialist of the Product Verification Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Poddubnyi Sergei",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "2024-12-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "Specialist of the group for the supply of basic materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "Sineva Natalia",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "2024-12-01",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        }
+    ]
+}

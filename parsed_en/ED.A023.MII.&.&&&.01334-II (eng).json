@@ -1,755 +1,755 @@
 {
-  "id": "ED.A023.MII.&.&&&.01334-II (eng)",
-  "headers": [
-    {
-      "source": "word/header1.xml",
-      "lines": [
-        "Unit №: TPS / УПК Date of inspection: 27.02.2025",
-        "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01334-II",
-        "Pages from 1 to 1 with Attachments on 1 pages"
-      ]
-    }
-  ],
-  "blocks": [
-    {
-      "type": "paragraph",
-      "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
-      "anchor": null
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    "id": "ED.A023.MII.&.&&&.01334-II (eng)",
+    "headers": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Manufacturer: Ceramica Cleopatra Group;Knauf;Weber Saint-Gobain",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "Organized by:Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "source": "word/header1.xml",
+            "lines": [
+                "Unit №: TPS / УПК Date of inspection: 27.02.2025",
+                "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01334-II",
+                "Pages from 1 to 1 with Attachments on 1 pages"
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    ],
+    "blocks": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Name of Materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "paragraph",
+            "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
+            "anchor": null
         },
         {
-          "row": 0,
-          "col": 1,
-          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: Ceramica Cleopatra Group;Knauf;Weber Saint-Gobain",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 2,
-          "text": "Safety class",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Ceramic tiles light beige 400×400 mm, thickness 8 mm / Плитка керамическая светло-бежевая 400×400 мм, толщина 8 мм",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "59,64 m2/м2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "G2 C",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Knauf single-level connector (crab) for profile 60×27 mm / Соединитель одноуровневый Кнауф (краб) для профиля 60×27 мм",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "80 psc / шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Cement-sand mixture \"M300\" / Смесь цементно-песчаная «М300»",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "0,279 m3 / м3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "24-043176",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 3,
-          "text": "Quantity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Date of quality certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment note",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Technical Documentation",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Delivery Note/Товарно-транспортная накладная № 184 dated 24.02.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "Training and Production Complex (TPC) / Учебно-производственный комплекс (УПК)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 4,
-          "text": "Batch number",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Ceramic tiles light beige 400×400 mm, thickness 8 mm / Плитка керамическая светло-бежевая 400×400 мм, толщина 8 мм",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "59,64 m2/м2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "G2 C",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Knauf single-level connector (crab) for profile 60×27 mm / Соединитель одноуровневый Кнауф (краб) для профиля 60×27 мм",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "80 psc / шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Cement-sand mixture \"M300\" / Смесь цементно-песчаная «М300»",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "0,279 m3 / м3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "24-043176",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. The following was identified as a result of the inspection:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks on the accompanying documentation (none, or give comments): Inspection of the technical documentation revealed the following / Входе проверки технической документации было выявлено:Violation of clauses 5.1.2, 5.2, section 15 of the Technical Assignment, 4.4 of the Supply Contract: no documents confirming the quality of goods, certificates of conformity, pasports in Russian and English for the supplied products (Ceramic tiles light beige 400×400 mm, thickness 8 mm, Knauf single-level connector (crab) for profile 60×27 mm, M300 cement-sand mix) were provided. / Нарушение пунктов 5.1.2, 5.2, раздел 15 Технического задания, 4.4 Договора поставки: не предоставлены документы подтверждающие качество товара, сертификаты соответствия, паспорта на русском и английском языках, на поставленную продукцию (Плитка керамическая светло-бежевая 400×400 мм, толщина 8 мм, Соединитель одноуровневый Кнауф (краб) для профиля 60×27 мм, Смесь цементно-песчаная «М300»).There is a violation of subsection 1.2 on novelty: Ceramic tiles light beige has the date of manufacture 9.11.2023, according to the Technical Assignment the date of production release should be not earlier than 2024. / Выявлено нарушение подраздела 1.2 о новизне: Плитка керамическая светло-бежевая имеет дату изготовления 9.11.2023, согласно Технического задания дата выпуска продукции должна быть не ранее 2024 года .",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): The inconsistency of the delivered products with the Technical Assignment (Annex 1) was revealed during the incoming inspection / При проведении входного контроля было выявлено несоответствие поставленной продукции Техническому заданию (Приложение 1): Ceramic tiles light beige, there is a discrepancy in overall dimensions, according to the Technical Assignment 400x400x8 mm, in fact 595x595x8 mm. / Плитка керамическая светло-бежевая, выявлено несоответствие габаритных размеров, по Техническому заданию 400х400х8 мм, по факту 595х595х8 мм.",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): The inconsistency with the specification of the Supply Contract (Annex 1) was detected during the incoming inspection / При проведении входного контроля было выявлено несоответствие спецификации Договора поставки (Приложение 1): 1. Ceramic tiles in light beige - manufacturer according to fact Ceramica Cleopatra Group, as per Jazeera Annex 1 / Плитка керамическая светло-бежевая – изготовитель по факту Ceramica Cleopatra Group, согласно Приложения 1 Jazeera;  2. Cement-sand mix ‘M300’ - manufacturer in fact Weber Saint-Gobain, as per Jazeera Annex 1. / Смесь цементно-песчаная «М300» – изготовитель по факту Weber Saint-Gobain, согласно Приложения 1 Jazeera.",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ARE                         ПУСТОТА ACCEPTED                          ГАЛОЧКА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Delivery Note/Товарно-транспортная накладная № 184 dated 24.02.2025 (1 page).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives for the incoming inspection of Materials:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Deputy Director for Quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "27.02.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Head of the Quality Assurance Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Skirukha Vadzim",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "27.02.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Specialist of Product Verification Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Shkrabinskiy Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "27.02.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "Leading specialist supply groups for auxiliary materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "Fadeeva Elena",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "27.02.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name and number of the document that certifies quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Date of quality certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Consignment note",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Technical Documentation",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Notes",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Delivery Note/Товарно-транспортная накладная № 184 dated 24.02.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "Training and Production Complex (TPC) / Учебно-производственный комплекс (УПК)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2. The following was identified as a result of the inspection:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.1 Remarks on the accompanying documentation (none, or give comments): Inspection of the technical documentation revealed the following / Входе проверки технической документации было выявлено:Violation of clauses 5.1.2, 5.2, section 15 of the Technical Assignment, 4.4 of the Supply Contract: no documents confirming the quality of goods, certificates of conformity, pasports in Russian and English for the supplied products (Ceramic tiles light beige 400×400 mm, thickness 8 mm, Knauf single-level connector (crab) for profile 60×27 mm, M300 cement-sand mix) were provided. / Нарушение пунктов 5.1.2, 5.2, раздел 15 Технического задания, 4.4 Договора поставки: не предоставлены документы подтверждающие качество товара, сертификаты соответствия, паспорта на русском и английском языках, на поставленную продукцию (Плитка керамическая светло-бежевая 400×400 мм, толщина 8 мм, Соединитель одноуровневый Кнауф (краб) для профиля 60×27 мм, Смесь цементно-песчаная «М300»).There is a violation of subsection 1.2 on novelty: Ceramic tiles light beige has the date of manufacture 9.11.2023, according to the Technical Assignment the date of production release should be not earlier than 2024. / Выявлено нарушение подраздела 1.2 о новизне: Плитка керамическая светло-бежевая имеет дату изготовления 9.11.2023, согласно Технического задания дата выпуска продукции должна быть не ранее 2024 года .",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): The inconsistency of the delivered products with the Technical Assignment (Annex 1) was revealed during the incoming inspection / При проведении входного контроля было выявлено несоответствие поставленной продукции Техническому заданию (Приложение 1): Ceramic tiles light beige, there is a discrepancy in overall dimensions, according to the Technical Assignment 400x400x8 mm, in fact 595x595x8 mm. / Плитка керамическая светло-бежевая, выявлено несоответствие габаритных размеров, по Техническому заданию 400х400х8 мм, по факту 595х595х8 мм.",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): The inconsistency with the specification of the Supply Contract (Annex 1) was detected during the incoming inspection / При проведении входного контроля было выявлено несоответствие спецификации Договора поставки (Приложение 1): 1. Ceramic tiles in light beige - manufacturer according to fact Ceramica Cleopatra Group, as per Jazeera Annex 1 / Плитка керамическая светло-бежевая – изготовитель по факту Ceramica Cleopatra Group, согласно Приложения 1 Jazeera;  2. Cement-sand mix ‘M300’ - manufacturer in fact Weber Saint-Gobain, as per Jazeera Annex 1. / Смесь цементно-песчаная «М300» – изготовитель по факту Weber Saint-Gobain, согласно Приложения 1 Jazeera.",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Conclusion:MATERIALS ARE                         ☐ ACCEPTED                          ☒ REJECTED",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Attachments:1. Delivery Note/Товарно-транспортная накладная № 184 dated 24.02.2025 (1 page).",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Representatives for the incoming inspection of Materials:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Company",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "Position",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Name of representatives",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Date",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "Signature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "Deputy Director for Quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "27.02.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "Head of the Quality Assurance Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "Skirukha Vadzim",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "27.02.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "Specialist of Product Verification Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "Shkrabinskiy Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "27.02.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 1,
-          "text": "Leading specialist supply groups for auxiliary materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 2,
-          "text": "Fadeeva Elena",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 3,
-          "text": "27.02.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    }
-  ]
+    ]
 }

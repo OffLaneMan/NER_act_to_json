@@ -1,1826 +1,1826 @@
 {
-  "id": "ED.A023.MII.1.0002-1 (eng)",
-  "headers": [
-    {
-      "source": "word/header1.xml",
-      "lines": [
-        "Unit №: 1 Date of inspection: 10.06.2022",
-        "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.1.0002-1",
-        "Pages from 1 to 1 with Attachments on 61 pages"
-      ]
-    }
-  ],
-  "blocks": [
-    {
-      "type": "paragraph",
-      "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
-      "anchor": null
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    "id": "ED.A023.MII.1.0002-1 (eng)",
+    "headers": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Manufacturer: Bryansk Plywood Mill;Peri;Stolichny Krepezh Production Company;Newest Fireproofing Russian Technologies;Izhevsk plastics plant;Sentek",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "Organized by:Shatilo Petr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/724-P Dated: 21-12-2023",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "source": "word/header1.xml",
+            "lines": [
+                "Unit №: 1 Date of inspection: 10.06.2022",
+                "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.1.0002-1",
+                "Pages from 1 to 1 with Attachments on 61 pages"
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name of Materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "KKS",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Safety class",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "QAcategory",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 5,
-          "text": "Quantity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 6,
-          "text": "Batch number",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 5,
-          "text": "6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 6,
-          "text": "7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Laminated plywood 18",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "GOST 53920-2010",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 5,
-          "text": "109,9 m2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Telescopic rack Peri PEP Ergo D-400",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 5,
-          "text": "23 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Telescopic rack Peri PEP Ergo D-250",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 5,
-          "text": "30 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Universal tripod by Peri nomenclature (or similar)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 5,
-          "text": "53 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Lowering head by Peri nomenclature (or similar)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 5,
-          "text": "28 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Screw 4x70 mm",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "GOST 1145-80",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 5,
-          "text": "500 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Bolt M14 L=60 mm",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "GOST 7798-70",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 5,
-          "text": "100 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "Steel nut M14",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "GOST 5915-70",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 5,
-          "text": "100 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "Nail K 3,5x90",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "GOST 4028-63",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 5,
-          "text": "560 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "Fireproof compound Pirilax",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "Pirilax",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 5,
-          "text": "4,5 kg",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 6,
-          "text": "987-472",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 0,
-          "text": "Isolon PPE NH with a thermal conductivity factor not more than 0,03 W/(m. C) or equivalent",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 1,
-          "text": "PPE",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 5,
-          "text": "1496 m2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 6,
-          "text": "10092255/40",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 0,
-          "text": "Thermal sensors complete with cable for temperature control (in accordance with the Process Schedule for Concreting)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 1,
-          "text": "Process Schedule for Concreting",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 5,
-          "text": "58 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 6,
-          "text": "22101157",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 0,
-          "text": "Steel waler Peri SRZ by PERI nomenclature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 5,
-          "text": "312 lin.m",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 14,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 0,
-          "text": "DW15 tie rod composite (through cone) by PERI nomenclature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 5,
-          "text": "783 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 15,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 0,
-          "text": "Nut and washer for coupling screw DW15 by Peri nomenclature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 1,
-          "text": "Peri",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 3,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 5,
-          "text": "390 pcs",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 16,
-          "col": 6,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+            "anchor": null
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: Bryansk Plywood Mill;Peri;Stolichny Krepezh Production Company;Newest Fireproofing Russian Technologies;Izhevsk plastics plant;Sentek",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Shatilo Petr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/724-P Dated: 21-12-2023",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "KKS",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "QAcategory",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 5,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 6,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 5,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 6,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Laminated plywood 18",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "GOST 53920-2010",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 5,
+                    "text": "109,9 m2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Telescopic rack Peri PEP Ergo D-400",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 5,
+                    "text": "23 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Telescopic rack Peri PEP Ergo D-250",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 5,
+                    "text": "30 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Universal tripod by Peri nomenclature (or similar)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 5,
+                    "text": "53 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Lowering head by Peri nomenclature (or similar)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 5,
+                    "text": "28 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Screw 4x70 mm",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "GOST 1145-80",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 5,
+                    "text": "500 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Bolt M14 L=60 mm",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "GOST 7798-70",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 5,
+                    "text": "100 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Steel nut M14",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "GOST 5915-70",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 5,
+                    "text": "100 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "Nail K 3,5x90",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "GOST 4028-63",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 5,
+                    "text": "560 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "Fireproof compound Pirilax",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Pirilax",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 5,
+                    "text": "4,5 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 6,
+                    "text": "987-472",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "Isolon PPE NH with a thermal conductivity factor not more than 0,03 W/(m. C) or equivalent",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "PPE",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 5,
+                    "text": "1496 m2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 6,
+                    "text": "10092255/40",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 0,
+                    "text": "Thermal sensors complete with cable for temperature control (in accordance with the Process Schedule for Concreting)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 1,
+                    "text": "Process Schedule for Concreting",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 5,
+                    "text": "58 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 6,
+                    "text": "22101157",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 0,
+                    "text": "Steel waler Peri SRZ by PERI nomenclature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 5,
+                    "text": "312 lin.m",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 14,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 0,
+                    "text": "DW15 tie rod composite (through cone) by PERI nomenclature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 5,
+                    "text": "783 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 15,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 0,
+                    "text": "Nut and washer for coupling screw DW15 by Peri nomenclature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 1,
+                    "text": "Peri",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 5,
+                    "text": "390 pcs",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 16,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Manufacturing date:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Detail Design document:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "12",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Quality certificate №N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "22.08.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Packing list № 02 dated 24.03.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Certificate of Conformity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "14.04.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Packing list № 22072022-4 dated 22.03.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Certificate of Conformity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "12.04.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Packing list № 22072022-4 dated 22.03.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Quality data sheet № 8614",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "17.01.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Packing list № 0206-05/2022 dated 06.05.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Data sheet ͏№ 1047/22",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "14.04.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Packing list № 1115-04/2022 dated 15.04.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Quality Certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "17.03.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Packing list № 1115-04/2022 dated 15.04.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Quality Certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Packing List № S3011-11/2022 dated 28.03.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. As a result of inspection were revealed following:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks for accompanying documents (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Material’s completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS                         ГАЛОЧКА ACCEPTED                          ПУСТОТА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Quality certificate №N/A dated 22.08.2022 (1 page);2. Certificate of Conformity dated 14.04.2022 (2 pages);3. Certificate of Conformity dated 12.04.2022 (2 pages);4. Quality data sheet № 8614 dated 17.01.2022 (2 pages);5. Data sheet ͏№ 1047/22 dated 14.04.2022 (4 pages);6. Quality Certificate dated 17.03.2022 (2 pages);7. Quality Certificate dated 2022 (2 pages);8. Packing list № 02 dated 24.03.2022 (1 page);9. Packing list № 22072022-4 dated 22.03.2022 (2 pages);10. Packing list № 0206-05/2022 dated 06.05.2022 (30 pages);11. Packing list № 1115-04/2022 dated 15.04.2022 (3 pages);12. Packing List № S3011-11/2022 dated 28.03.2022 (10 pages).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives of Commission:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Specialist of the Incoming Control Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Shatilo Petr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "10.06.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Head of the Incoming Control Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Skirukha Vadzim",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "10.06.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "JSC ASE",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Chief Specialist of the Incoming control group of equipment and materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Lubinski Raman",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "10.06.2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name and number of the document that certifies quality:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Manufacturing date:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Consignment notes:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Detail Design document:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Notes:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "11",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "12",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Quality certificate №N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "22.08.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Packing list № 02 dated 24.03.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Certificate of Conformity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "14.04.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "Packing list № 22072022-4 dated 22.03.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Certificate of Conformity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "12.04.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "Packing list № 22072022-4 dated 22.03.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Quality data sheet № 8614",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "17.01.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "Packing list № 0206-05/2022 dated 06.05.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Data sheet ͏№ 1047/22",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "14.04.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "Packing list № 1115-04/2022 dated 15.04.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Quality Certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "17.03.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "Packing list № 1115-04/2022 dated 15.04.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Quality Certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Packing List № S3011-11/2022 dated 28.03.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "ED.D.P034.1.0UKA99&&&&&&.015.KE.0002.E (C0)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2. As a result of inspection were revealed following:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.1 Remarks for accompanying documents (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "2.2. Remarks for visual, measurement and other inspections including Material’s completeness (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Conclusion:MATERIALS                         ☒ ACCEPTED                          ☐ REJECTED",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Attachments:1. Quality certificate №N/A dated 22.08.2022 (1 page);2. Certificate of Conformity dated 14.04.2022 (2 pages);3. Certificate of Conformity dated 12.04.2022 (2 pages);4. Quality data sheet № 8614 dated 17.01.2022 (2 pages);5. Data sheet ͏№ 1047/22 dated 14.04.2022 (4 pages);6. Quality Certificate dated 17.03.2022 (2 pages);7. Quality Certificate dated 2022 (2 pages);8. Packing list № 02 dated 24.03.2022 (1 page);9. Packing list № 22072022-4 dated 22.03.2022 (2 pages);10. Packing list № 0206-05/2022 dated 06.05.2022 (30 pages);11. Packing list № 1115-04/2022 dated 15.04.2022 (3 pages);12. Packing List № S3011-11/2022 dated 28.03.2022 (10 pages).",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Representatives of Commission:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Company",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "Position",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Name of representatives",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Date",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "Signature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "Specialist of the Incoming Control Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Shatilo Petr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "10.06.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "Head of the Incoming Control Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "Skirukha Vadzim",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "10.06.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "JSC ASE",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "Chief Specialist of the Incoming control group of equipment and materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "Lubinski Raman",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "10.06.2022",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    }
-  ]
+    ]
 }

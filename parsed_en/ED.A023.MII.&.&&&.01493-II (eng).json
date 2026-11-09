@@ -1,1565 +1,1565 @@
 {
-  "id": "ED.A023.MII.&.&&&.01493-II (eng)",
-  "headers": [
-    {
-      "source": "word/header1.xml",
-      "lines": [
-        "Unit №: 0, 1, 2 Date of inspection: 15.07.2025",
-        "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01493-II",
-        "Pages from 1 to 1 with Attachments on 24 pages"
-      ]
-    }
-  ],
-  "blocks": [
-    {
-      "type": "paragraph",
-      "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
-      "anchor": null
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    "id": "ED.A023.MII.&.&&&.01493-II (eng)",
+    "headers": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Manufacturer: Jebaal for construction & Trading",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "Organized by:Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "source": "word/header1.xml",
+            "lines": [
+                "Unit №: 0, 1, 2 Date of inspection: 15.07.2025",
+                "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01493-II",
+                "Pages from 1 to 1 with Attachments on 24 pages"
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name of Materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Safety class",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Quantity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Batch number",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Anchor 1.1 М42х1320/Болт фундаментный 1.1 М42х1320",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "64 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "Jabaal-18062025/6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Anchor 1.1 М24х800/Болт фундаментный 1.1 М24х800",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "80 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "Jabaal-18062025/6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Anchor 1.2 М24х1000/Болт фундаментный 1.2 М24х1000",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "13 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "Jabaal-18062025/6;Jabaal-18062025/7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Anchor 1.1 М36х1250/Болт фундаментный 1.1 М36х1250",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "300 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "Jabaal-18062025/1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Anchor 5.1 М12х400/Болт фундаментный 5.1 М12х400",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "32 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "Jabaal-18062025/10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Anchor 5.1 М16х400/Болт фундаментный 5.1 М16х400",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "8 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "Jabaal-18062025/3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Anchor 5.1 М20х450/Болт фундаментный 5.1 М20х450",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "24 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "Jabaal-18062025/17",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "Anchor 1.1 М20х800/Болт фундаментный 1.1 М20х800",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "40 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "Jabaal-18062025/9;Jabaal-19062025/8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "Anchor 1.1 М24х750/Болт фундаментный 1.1 М24х750",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "21 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "Jabaal-18062025/9;Jabaal-19062025/8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "Anchor 1.1 М42х1000/Болт фундаментный 1.1 М42х1000",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "99 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "Jabaal-18062025/9;Jabaal-19062025/8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 0,
-          "text": "Anchor 1.1 М24х500/Болт фундаментный 1.1 М24х500",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 3,
-          "text": "8 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 4,
-          "text": "Jabaal-18062025/4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 0,
-          "text": "Anchor 1.1 М30х1850/Болт фундаментный 1.1 М30х1850",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 1,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 3,
-          "text": "48 psc/шт",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 13,
-          "col": 4,
-          "text": "Jabaal-18062025/4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
+            "anchor": null
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: Jebaal for construction & Trading",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Anchor 1.1 М42х1320/Болт фундаментный 1.1 М42х1320",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "64 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "Jabaal-18062025/6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Anchor 1.1 М24х800/Болт фундаментный 1.1 М24х800",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "80 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "Jabaal-18062025/6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Anchor 1.2 М24х1000/Болт фундаментный 1.2 М24х1000",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "13 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "Jabaal-18062025/6;Jabaal-18062025/7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Anchor 1.1 М36х1250/Болт фундаментный 1.1 М36х1250",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "300 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "Jabaal-18062025/1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Anchor 5.1 М12х400/Болт фундаментный 5.1 М12х400",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "32 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "Jabaal-18062025/10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Anchor 5.1 М16х400/Болт фундаментный 5.1 М16х400",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "8 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "Jabaal-18062025/3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Anchor 5.1 М20х450/Болт фундаментный 5.1 М20х450",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "24 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Jabaal-18062025/17",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Anchor 1.1 М20х800/Болт фундаментный 1.1 М20х800",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "40 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "Jabaal-18062025/9;Jabaal-19062025/8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "Anchor 1.1 М24х750/Болт фундаментный 1.1 М24х750",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "21 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "Jabaal-18062025/9;Jabaal-19062025/8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "Anchor 1.1 М42х1000/Болт фундаментный 1.1 М42х1000",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "99 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "Jabaal-18062025/9;Jabaal-19062025/8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "Anchor 1.1 М24х500/Болт фундаментный 1.1 М24х500",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "8 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "Jabaal-18062025/4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 0,
+                    "text": "Anchor 1.1 М30х1850/Болт фундаментный 1.1 М30х1850",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 1,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 3,
+                    "text": "48 psc/шт",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 13,
+                    "col": 4,
+                    "text": "Jabaal-18062025/4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Date of quality certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment note",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Technical Documentation",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3473",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Delivery report dated 01.07.2024;Delivery report dated N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3481",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Delivery report dated 01.07.2024;Delivery report dated N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3464",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Delivery report dated N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3465",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Delivery report dated 02.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3466",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Delivery report dated 02.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3487",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Delivery report dated 02.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3479",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Delivery report dated N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3480",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "03.08.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Delivery report dated N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3470",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Delivery report dated 15.09.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "Passport/Паспорт №ARE-3472",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "10.06.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Delivery report dated 15.09.2024;Delivery report dated 02.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. The following was identified as a result of the inspection:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks on the accompanying documentation (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ARE                         ГАЛОЧКА ACCEPTED                          ПУСТОТА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Passport/Паспорт №ARE-3473 dated 10.06.2025 (2 pages);2. Passport/Паспорт №ARE-3481 dated 10.06.2025 (2 pages);3. Passport/Паспорт №ARE-3464 dated 10.06.2025 (2 pages);4. Passport/Паспорт №ARE-3465 dated 10.06.2025 (2 pages);5. Passport/Паспорт №ARE-3466 dated 10.06.2025 (2 pages);6. Passport/Паспорт №ARE-3487 dated 10.06.2025 (2 pages);7. Passport/Паспорт №ARE-3479 dated 10.06.2025 (2 pages);8. Passport/Паспорт №ARE-3480 dated 03.08.2024 (2 pages);9. Passport/Паспорт №ARE-3470 dated 10.06.2025 (2 pages);10. Passport/Паспорт №ARE-3472 dated 10.06.2025 (2 pages);11. Delivery report dated 01.07.2024 (1 page);12. Delivery report dated N/A (1 page);13. Delivery report dated 02.11.2024 (1 page);14. Delivery report dated 15.09.2024 (1 page).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives for the incoming inspection of Materials:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Deputy Director for Quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "15.07.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Head of the Quality Assurance Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Skirukha Vadzim",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "15.07.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Chief Specialist of the Product Verification Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Poddubnyi Sergei",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "15.07.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 1,
+                    "text": "Chief specialist of the metal structures supply group",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 2,
+                    "text": "Kravchenkov Evgeny",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 3,
+                    "text": "15.07.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 12,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name and number of the document that certifies quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Date of quality certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Consignment note",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Technical Documentation",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Notes",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3473",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Delivery report dated 01.07.2024;Delivery report dated N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3481",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "Delivery report dated 01.07.2024;Delivery report dated N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3464",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "Delivery report dated N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3465",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "Delivery report dated 02.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3466",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "Delivery report dated 02.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3487",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "Delivery report dated 02.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3479",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Delivery report dated N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3480",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "03.08.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Delivery report dated N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3470",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "Delivery report dated 15.09.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "Passport/Паспорт №ARE-3472",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "10.06.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "Delivery report dated 15.09.2024;Delivery report dated 02.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "SP 16.13330.2012/СП 16.13330.2012;GOST 24379.1-2012/ГОСТ 24379.1-2012",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2. The following was identified as a result of the inspection:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.1 Remarks on the accompanying documentation (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Conclusion:MATERIALS ARE                         ☒ ACCEPTED                          ☐ REJECTED",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Attachments:1. Passport/Паспорт №ARE-3473 dated 10.06.2025 (2 pages);2. Passport/Паспорт №ARE-3481 dated 10.06.2025 (2 pages);3. Passport/Паспорт №ARE-3464 dated 10.06.2025 (2 pages);4. Passport/Паспорт №ARE-3465 dated 10.06.2025 (2 pages);5. Passport/Паспорт №ARE-3466 dated 10.06.2025 (2 pages);6. Passport/Паспорт №ARE-3487 dated 10.06.2025 (2 pages);7. Passport/Паспорт №ARE-3479 dated 10.06.2025 (2 pages);8. Passport/Паспорт №ARE-3480 dated 03.08.2024 (2 pages);9. Passport/Паспорт №ARE-3470 dated 10.06.2025 (2 pages);10. Passport/Паспорт №ARE-3472 dated 10.06.2025 (2 pages);11. Delivery report dated 01.07.2024 (1 page);12. Delivery report dated N/A (1 page);13. Delivery report dated 02.11.2024 (1 page);14. Delivery report dated 15.09.2024 (1 page).",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Representatives for the incoming inspection of Materials:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Company",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "Position",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Name of representatives",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Date",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "Signature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "Deputy Director for Quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "15.07.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "Head of the Quality Assurance Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "Skirukha Vadzim",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "15.07.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "Chief Specialist of the Product Verification Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "Poddubnyi Sergei",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "15.07.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 1,
-          "text": "Chief specialist of the metal structures supply group",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 2,
-          "text": "Kravchenkov Evgeny",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 3,
-          "text": "15.07.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 12,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    }
-  ]
+    ]
 }

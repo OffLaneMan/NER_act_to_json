@@ -1,0 +1,1275 @@
+{
+    "id": "ED.A009.MII.&.012.0444 (eng) от 27.10.2023 - в 10.01",
+    "headers": {
+        "source": "word/header1.xml",
+        "lines": [
+            "Unit No: 1 Date of inspection: 2023-10-26",
+            "Incoming Inspection Certificate of Materials on the Site No ED.A009.MII.&.012.0444",
+            "Pages from 1 to 3 with Attachments on 30 pages"
+        ]
+    },
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "INCOMING INSPECTION CERTIFICATE OF MATERIALS ON THE SITE",
+            "anchor": null
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: AEMZ;Stroytekhinvest LLC;STINKO CO LTD;Tosyali Demir Celik;Habas",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: No 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Ekaterina Tarnovskaya",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order: NIKIMT-Atomstroy JSC No 39-300/23-P Dated: 30-05-2022",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "The Commission have issued this Incoming Inspection Certificate of Materials for the Materials as follows:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "KKS",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "QAcategory",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 5,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 6,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 5,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 6,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Reinforcement of grade A500CEU Ø16",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "GOST 34028-2016",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 5,
+                    "text": "4502,44 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Reinforcement of grade A500CEU Ø25",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "GOST 34028-2016",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 5,
+                    "text": "7685,8 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 6,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Wire Ø1,2 mm",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "GOST 3282-74",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 5,
+                    "text": "243,77 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 6,
+                    "text": "A21458",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Rolled steel of grade S355JR, 12 mm",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "EN 10025-2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 5,
+                    "text": "180,88 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 6,
+                    "text": "SB44257;SB44327;SF53550",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Channel UPN120",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "EN 10279",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 5,
+                    "text": "769,72 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 6,
+                    "text": "612105278;602105871;602105853;312105120",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Rolled steel (S275JR) L50x5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "EN 10056",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 5,
+                    "text": "286,08 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 6,
+                    "text": "402107557;402107374",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Rolled steel of grade S235JR, 6 mm",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 5,
+                    "text": "8,52 kg",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 6,
+                    "text": "260701461;260701123;260701127;260701305",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Manufacturing date:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Detail Design document:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "11",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "12",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Quality certificate No0119304",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Packing List No 1711-11/2022 dated 2022-11-17",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Quality certificate No0128587",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Packing List No 1711-11/2022 dated 2022-11-17",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Quality passport No14",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Packing List No 1711-11/2022 dated 2022-11-17",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Certificate No. 220319-FP01PS-0003A1-0001",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "2022-03-29",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Акт сдачи-приемки товаров / Certificate of acceptance of goods No2 dated 2022-02-07",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Mill test certificate No1000212866",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Акт сдачи-приемки товаров No1 dated 2022-01-31",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Mill's test certificate No3.741",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "2022-09-15",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Акт сдачи-приемки товаров / Certificate of acceptance of goods No1 dated 2022-01-31",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "ED.D.P032.1.0UKA&&&&&&&&.012.DC.0001.S",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. As a result of inspection were revealed following:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks for accompanying documents (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Material's completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Non-conformities (none, or give comments, Non-conformity report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ГАЛОЧКА ACCEPTED ПУСТОТА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Quality certificate No0119304 dated 2022-06-08 (1 page);2. Quality certificate No0128587 dated 2022-07-23 (1 page);3. Quality passport No14 dated 2022-09-21 (1 page);4. Certificate No. 220319-FP01PS-0003A1-0001 dated 2022-03-29 (1 page);5. Mill test certificate No1000212866 dated 2021-09-21 (1 page);6. Mill's test certificate No3.741 dated 2022-09-15 (3 pages);7. Packing List No 1711-11/2022 dated 2022-11-17 (13 pages);8. Акт сдачи-приемки товаров / Certificate of acceptance of goods No2 dated 2022-02-07 (3 pages);9. Акт сдачи-приемки товаров No1 dated 2022-01-31 (3 pages);10. Акт сдачи-приемки товаров / Certificate of acceptance of goods No1 dated 2022-01-31 (3 pages).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives of Commission:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Team leader of the quality control department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Ekaterina Tarnovskaya",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "2023-10-26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Team leader of the quality control department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Voilau Andrei",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "2023-10-26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "JSC ASE",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Chief Specialist of the Incoming control group of equipment and materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Lubinski Raman",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "2023-10-26",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,1070 +1,1070 @@
 {
-  "id": "ED.A023.MII.&.&&&.01990-II (eng)",
-  "headers": [
-    {
-      "source": "word/header1.xml",
-      "lines": [
-        "Unit №: 0, 1, 2 Date of inspection: 06.07.2026",
-        "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01990-II",
-        "Pages from 1 to 1 with Attachments on 14 pages"
-      ]
-    }
-  ],
-  "blocks": [
-    {
-      "type": "paragraph",
-      "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
-      "anchor": null
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    "id": "ED.A023.MII.&.&&&.01990-II (eng)",
+    "headers": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Manufacturer: Sel Dis Tic. Ve Kimya San. A.S.;LLC \"Alumport\";LLC \"Krepezhnye sistemy\"",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "Organized by:Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/711-P Dated: 18-11-2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "source": "word/header1.xml",
+            "lines": [
+                "Unit №: 0, 1, 2 Date of inspection: 06.07.2026",
+                "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01990-II",
+                "Pages from 1 to 1 with Attachments on 14 pages"
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    ],
+    "blocks": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Name of Materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "paragraph",
+            "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
+            "anchor": null
         },
         {
-          "row": 0,
-          "col": 1,
-          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: Sel Dis Tic. Ve Kimya San. A.S.;LLC \"Alumport\";LLC \"Krepezhnye sistemy\"",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/711-P Dated: 18-11-2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 2,
-          "text": "Safety class",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Polyurethane sealant LOGICFLEX TECHNONICOL / Герметик полиуретановый LOGICFLEX ТЕХНОНИКОЛЬ",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "TU/ТУ 20.30.12-130-72746455-2020",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "64,8 l/л",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "PU25260134",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "TechnoNIKOL pressure rail / Прижимная рейка Технониколь",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "TU/ТУ 25.50.13.000-004-15479072-2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "1100 l.m./м.п.",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "030",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Anchor element 8x45 TechnoNIKOL / Анкерный элемент 8х45 Технониколь",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "STO/СТО 72746455-3.9.35-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "9 box / упак",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "1125",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Round plate holder TechnoNIKOL / Круглый тарельчатый держатель  Технониколь",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "STO/СТО 72746455-3.9.30-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "12 box / упак",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "1214",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 3,
-          "text": "Quantity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Date of quality certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment note",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Technical Documentation",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Certificate of analysis / паспорт качества",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "18.05.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Information letter / Информационное письмо № N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "26.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Quality certificate / Сертификат № 235",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "08.11.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.32748.04ЭП30.ОС16.01801",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "05.02.2028",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Passport / Паспорт качества № 1125",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "13.05.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.32001.04ИБФ1.ОСП28.62967",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "20.10.2027",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Passport / Паспорт качества № 1214",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "13.05.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.АЖ49.Н05971",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "08.08.2027",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "Unit 0, 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 4,
-          "text": "Batch number",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Polyurethane sealant LOGICFLEX TECHNONICOL / Герметик полиуретановый LOGICFLEX ТЕХНОНИКОЛЬ",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "TU/ТУ 20.30.12-130-72746455-2020",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "64,8 l/л",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "PU25260134",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "TechnoNIKOL pressure rail / Прижимная рейка Технониколь",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "TU/ТУ 25.50.13.000-004-15479072-2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "1100 l.m./м.п.",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "030",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Anchor element 8x45 TechnoNIKOL / Анкерный элемент 8х45 Технониколь",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "STO/СТО 72746455-3.9.35-2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "9 box / упак",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "1125",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Round plate holder TechnoNIKOL / Круглый тарельчатый держатель  Технониколь",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "STO/СТО 72746455-3.9.30-2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "12 box / упак",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "1214",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. The following was identified as a result of the inspection:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks on the accompanying documentation (none, or give comments): The requirements of subsections 5.1, 5.2, and 15 of the Technical Specifications and section 4.4 of the Supply Contract have been violated: the originals or certified copies of quality documents (specifications, certificates of conformity) in Russian and English have not been provided. / Нарушены требования подразделов 5.1, 5.2, 15 Технического задания, 4.4 Договора поставки: не предоставлены оригиналы или заверенные копии документов о качестве (паспорта, сертификаты соответствия) на русском и английском языках.",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ARE                         ПУСТОТА ACCEPTED                          ГАЛОЧКА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Attachments:1. Certificate of analysis / паспорт качества dated 18.05.2026 (1 page);2. Information letter / Информационное письмо № N/A dated 26.03.2025 (2 pages);3. Quality certificate / Сертификат № 235 dated 08.11.2025 (1 page);4. Certificate of conformity / Сертификат соответствия № РОСС RU.32748.04ЭП30.ОС16.01801 dated 06.02.2025 (1 page);5. Passport / Паспорт качества № 1125 dated 13.05.2026 (1 page);6. Certificate of conformity / Сертификат соответствия № РОСС RU.32001.04ИБФ1.ОСП28.62967 dated 21.10.2024 (1 page);7. Passport / Паспорт качества № 1214 dated 13.05.2026 (1 page);8. Certificate of conformity / Сертификат соответствия № РОСС RU.АЖ49.Н05971 dated 09.08.2024 (1 page);9. Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026 (5 pages).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Representatives for the incoming inspection of Materials:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Deputy Director for Quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "06.07.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 1,
+                    "text": "Specialist of Product Verification Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 2,
+                    "text": "Shkrabinskiy Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 3,
+                    "text": "06.07.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 10,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 1,
+                    "text": "Specialist of the group for the supply of basic materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 2,
+                    "text": "Sadykova Ekaterina",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 3,
+                    "text": "06.07.2026",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 11,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name and number of the document that certifies quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Date of quality certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Consignment note",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Technical Documentation",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Notes",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Certificate of analysis / паспорт качества",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "18.05.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Information letter / Информационное письмо № N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "26.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Quality certificate / Сертификат № 235",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "08.11.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.32748.04ЭП30.ОС16.01801",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "05.02.2028",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Passport / Паспорт качества № 1125",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "13.05.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.32001.04ИБФ1.ОСП28.62967",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "20.10.2027",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Passport / Паспорт качества № 1214",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "13.05.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "Certificate of conformity / Сертификат соответствия № РОСС RU.АЖ49.Н05971",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "08.08.2027",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "Unit 0, 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2. The following was identified as a result of the inspection:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.1 Remarks on the accompanying documentation (none, or give comments): The requirements of subsections 5.1, 5.2, and 15 of the Technical Specifications and section 4.4 of the Supply Contract have been violated: the originals or certified copies of quality documents (specifications, certificates of conformity) in Russian and English have not been provided. / Нарушены требования подразделов 5.1, 5.2, 15 Технического задания, 4.4 Договора поставки: не предоставлены оригиналы или заверенные копии документов о качестве (паспорта, сертификаты соответствия) на русском и английском языках.",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Conclusion:MATERIALS ARE                         ☐ ACCEPTED                          ☒ REJECTED",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Attachments:1. Certificate of analysis / паспорт качества dated 18.05.2026 (1 page);2. Information letter / Информационное письмо № N/A dated 26.03.2025 (2 pages);3. Quality certificate / Сертификат № 235 dated 08.11.2025 (1 page);4. Certificate of conformity / Сертификат соответствия № РОСС RU.32748.04ЭП30.ОС16.01801 dated 06.02.2025 (1 page);5. Passport / Паспорт качества № 1125 dated 13.05.2026 (1 page);6. Certificate of conformity / Сертификат соответствия № РОСС RU.32001.04ИБФ1.ОСП28.62967 dated 21.10.2024 (1 page);7. Passport / Паспорт качества № 1214 dated 13.05.2026 (1 page);8. Certificate of conformity / Сертификат соответствия № РОСС RU.АЖ49.Н05971 dated 09.08.2024 (1 page);9. Packing list / Упаковочный лист №0505-06/2026 dated 05.06.2026 (5 pages).",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Representatives for the incoming inspection of Materials:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Company",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "Position",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Name of representatives",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Date",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "Signature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "Deputy Director for Quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "06.07.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 1,
-          "text": "Specialist of Product Verification Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 2,
-          "text": "Shkrabinskiy Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 3,
-          "text": "06.07.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 10,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 1,
-          "text": "Specialist of the group for the supply of basic materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 2,
-          "text": "Sadykova Ekaterina",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 3,
-          "text": "06.07.2026",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 11,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    }
-  ]
+    ]
 }

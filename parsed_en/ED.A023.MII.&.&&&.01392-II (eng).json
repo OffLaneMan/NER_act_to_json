@@ -1,1166 +1,1166 @@
 {
-  "id": "ED.A023.MII.&.&&&.01392-II (eng)",
-  "headers": [
-    {
-      "source": "word/header1.xml",
-      "lines": [
-        "Unit №: 1, 2 Date of inspection: 14.04.2025",
-        "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01392-II",
-        "Pages from 1 to 1 with Attachments on 12 pages"
-      ]
-    }
-  ],
-  "blocks": [
-    {
-      "type": "paragraph",
-      "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
-      "anchor": null
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    "id": "ED.A023.MII.&.&&&.01392-II (eng)",
+    "headers": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Manufacturer: Pervouralsk New Pipe Plant Joint-Stock Company;Pipe Works LLC;Ural Pipe Plant Open Joint-Stock Company;Insulation Pipe Plant Joint-Stock Company;Mytishchi Pipe Plant LLC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "Subcontractor: NIKIMT-Atomstroy JSC",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "Organized by:Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
-          "gridspan": 3,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "source": "word/header1.xml",
+            "lines": [
+                "Unit №: 1, 2 Date of inspection: 14.04.2025",
+                "Incoming Inspection Certificate of Materials on the Site № ED.A023.MII.&.&&&.01392-II",
+                "Pages from 1 to 1 with Attachments on 12 pages"
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
+    ],
+    "blocks": [
         {
-          "row": 0,
-          "col": 0,
-          "text": "Name of Materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "paragraph",
+            "text": "CERTIFICATE OF INCOMING INSPECTION OF MATERIALS AT THE SITE",
+            "anchor": null
         },
         {
-          "row": 0,
-          "col": 1,
-          "text": "Type, brand, standard (technical requirement, GOST, etc.)",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Manufacturer: Pervouralsk New Pipe Plant Joint-Stock Company;Pipe Works LLC;Ural Pipe Plant Open Joint-Stock Company;Insulation Pipe Plant Joint-Stock Company;Mytishchi Pipe Plant LLC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "Subcontractor: NIKIMT-Atomstroy JSC",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Subcontract: № 7720/210933Dated: 17-11-2021",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "Organized by:Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Incoming inspection commission assigned by order:  NIKIMT-Atomstroy JSC № 39-300/814-P Dated: 25-09-2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Representatives for Materials incoming inspection have issued this Materials incoming inspection certificate for the following Materials:",
+                    "gridspan": 3,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 2,
-          "text": "Safety class",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name of Materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Type, brand, standard (technical requirement, GOST, etc.)",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Safety class",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Quantity",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Batch number",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "1",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Pipe b/w x/d 32х3,5/Труба б/ш х/д 32х3,5",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 8734-75;St20/Ст20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "70 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "9325",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Pipe e/s 38x4/Труба э/с 38х4",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 10704-91;St3sp/Ст3сп",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "65 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "5735000568",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Pipe b/w x/d 51х3/Труба б/ш х/д 51х3",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 8734-75;St20/Ст20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "50 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "9315",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Pipe e/c 377x9/Труба э/с 377х9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 10704-91;St20/Ст20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "705 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "1136",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Pipe e/s 530x10/Труба э/с 530х10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 10704-91;St20/Ст20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "770 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "1103",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Pipe e/s 720x8/Труба э/с 720х8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 10704-91;St17G1S/Ст17Г1С",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "1035 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "328793",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Pipe e/s 820x9/Труба э/с 820х9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "GOST/ГОСТ 10704-91;St20/Ст20",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "2150 kg/кг",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "24156/7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 3,
-          "text": "Quantity",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "Name and number of the document that certifies quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 1,
+                    "text": "Date of quality certificate",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 2,
+                    "text": "Consignment note",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 3,
+                    "text": "Technical Documentation",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 0,
+                    "col": 4,
+                    "text": "Notes",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "6",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 1,
+                    "text": "7",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 2,
+                    "text": "8",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 3,
+                    "text": "9",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 4,
+                    "text": "10",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 001310/ 09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 1,
+                    "text": "19.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 21677/568",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 1,
+                    "text": "19.03.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № AK-452353/09",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 1,
+                    "text": "19.07.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 6528",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 1,
+                    "text": "22.10.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 7007",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "13.11.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 502",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "01.12.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "Certificate of approval/Сертификат качества № 20249",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "19.09.2024",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "Unit 1, 2",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "N/A",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 0,
-          "col": 4,
-          "text": "Batch number",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2. The following was identified as a result of the inspection:",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.1 Remarks on the accompanying documentation (none, or give comments): 2.1.1. Certificate of approval № 001310/ 09 dated 19.11.2024/ Сертификат качества № 001310/ 09 от 19.11.2024:The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках;2.1.2. Certificate of approval № 21677/568 dated 19.03.2024/ Сертификат качества № 21677/568 от 19.03.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;2.1.3. Certificate of approval № AK-452353/09 dated 19.07.2024/ Сертификат качества № AK-452353/09 от 19.07.2024:This certificate was not issued by the manufacturer. An official response was received by letter No. Пк-02/03851 dated 14.04.2025/ Данный сертификат не выпускался изготовителем. Получен официальный ответ письмом № Пк-02/03851 от 14.04.2025;The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках;2.1.4. Certificate of approval № 6528 dated 22.10.2024/ Сертификат качества № 6528 от 22.10.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Incorrect translation of steel grade: 17G1S-U, 17G1S-U(K52)/ Некорректный перевод марки стали: 17Г1С-У, 17Г1С-У(К52);2.1.5. Certificate of approval № 7007 dated 13.11.2024/ Сертификат качества № 7007 от 13.11.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Incorrect translation of steel grade: 17G1S-U, 09GSF(K52), 20A(K48)/ Некорректный перевод марки стали: 17Г1С-У, 09ГСФ(К52), 20А(К48);2.1.6. Certificate of approval № 502 dated 01.12.2024/ Сертификат качества № 502 от 01.12.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Translation of steel grade is not performed in full position 1-8 of Quality Certificate No. 502 dated 01.12.2024/ Перевод марки стали выполнен не в полном объеме позиция 1-8 Сертификата качества № 502 от 01.12.2024;2.1.7. Certificate of approval № 20249 dated 19.09.2024/ Сертификат качества № 20249 от 19.09.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках.",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         },
         {
-          "row": 1,
-          "col": 0,
-          "text": "1",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Pipe b/w x/d 32х3,5/Труба б/ш х/д 32х3,5",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "GOST/ГОСТ 8734-75;St20/Ст20",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "70 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "9325",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Pipe e/s 38x4/Труба э/с 38х4",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "GOST/ГОСТ 10704-91;St3sp/Ст3сп",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "65 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "5735000568",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Pipe b/w x/d 51х3/Труба б/ш х/д 51х3",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "GOST/ГОСТ 8734-75;St20/Ст20",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "50 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "9315",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Pipe e/c 377x9/Труба э/с 377х9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "GOST/ГОСТ 10704-91;St20/Ст20",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "705 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "1136",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Pipe e/s 530x10/Труба э/с 530х10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "GOST/ГОСТ 10704-91;St20/Ст20",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "770 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "1103",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Pipe e/s 720x8/Труба э/с 720х8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "GOST/ГОСТ 10704-91;St17G1S/Ст17Г1С",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "1035 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "328793",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Pipe e/s 820x9/Труба э/с 820х9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "GOST/ГОСТ 10704-91;St20/Ст20",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "2150 kg/кг",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "24156/7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
+            "type": "table",
+            "anchor": null,
+            "rows": [
+                {
+                    "row": 0,
+                    "col": 0,
+                    "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": true,
+                    "anchor": null
+                },
+                {
+                    "row": 1,
+                    "col": 0,
+                    "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 2,
+                    "col": 0,
+                    "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 3,
+                    "col": 0,
+                    "text": "Conclusion:MATERIALS ARE                         ПУСТОТА ACCEPTED                          ГАЛОЧКА REJECTED",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 4,
+                    "col": 0,
+                    "text": "Attachments:1. Certificate of approval/Сертификат качества № 001310/ 09 dated 19.11.2024 (2 pages);2. Certificate of approval/Сертификат качества № 21677/568 dated 19.03.2024 (1 page);3. Certificate of approval/Сертификат качества № AK-452353/09 dated 19.07.2024 (2 pages);4. Certificate of approval/Сертификат качества № 6528 dated 22.10.2024 (1 page);5. Certificate of approval/Сертификат качества № 7007 dated 13.11.2024 (1 page);6. Certificate of approval/Сертификат качества № 502 dated 01.12.2024 (1 page);7. Certificate of approval/Сертификат качества № 20249 dated 19.09.2024 (2 pages);8. Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025 (2 pages).",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 5,
+                    "col": 0,
+                    "text": "Representatives for the incoming inspection of Materials:",
+                    "gridspan": 5,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 0,
+                    "text": "Company",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 1,
+                    "text": "Position",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 2,
+                    "text": "Name of representatives",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 3,
+                    "text": "Date",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 6,
+                    "col": 4,
+                    "text": "Signature",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 1,
+                    "text": "Deputy Director for Quality",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 2,
+                    "text": "Moiseenko Aleksandr",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 3,
+                    "text": "14.04.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 7,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 1,
+                    "text": "Chief Specialist of the Product Verification Department",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 2,
+                    "text": "Poddubnyi Sergei",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 3,
+                    "text": "14.04.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 8,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 0,
+                    "text": "NIKIMT-Atomstroy JSC",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 1,
+                    "text": "Chief Specialist of the group for the supply of basic materials",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 2,
+                    "text": "Dunaev Konstantin",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 3,
+                    "text": "14.04.2025",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                },
+                {
+                    "row": 9,
+                    "col": 4,
+                    "text": "",
+                    "gridspan": 1,
+                    "vmerge": null,
+                    "is_header": false,
+                    "anchor": null
+                }
+            ]
         }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "Name and number of the document that certifies quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 1,
-          "text": "Date of quality certificate",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 2,
-          "text": "Consignment note",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 3,
-          "text": "Technical Documentation",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 0,
-          "col": 4,
-          "text": "Notes",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "6",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 1,
-          "text": "7",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 2,
-          "text": "8",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 3,
-          "text": "9",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 4,
-          "text": "10",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 001310/ 09",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 1,
-          "text": "19.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 21677/568",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 1,
-          "text": "19.03.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № AK-452353/09",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 1,
-          "text": "19.07.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 6528",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 1,
-          "text": "22.10.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 7007",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "13.11.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 502",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "01.12.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "Certificate of approval/Сертификат качества № 20249",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "19.09.2024",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "Unit 1, 2",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "N/A",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2. The following was identified as a result of the inspection:",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.1 Remarks on the accompanying documentation (none, or give comments): 2.1.1. Certificate of approval № 001310/ 09 dated 19.11.2024/ Сертификат качества № 001310/ 09 от 19.11.2024:The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках;2.1.2. Certificate of approval № 21677/568 dated 19.03.2024/ Сертификат качества № 21677/568 от 19.03.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;2.1.3. Certificate of approval № AK-452353/09 dated 19.07.2024/ Сертификат качества № AK-452353/09 от 19.07.2024:This certificate was not issued by the manufacturer. An official response was received by letter No. Пк-02/03851 dated 14.04.2025/ Данный сертификат не выпускался изготовителем. Получен официальный ответ письмом № Пк-02/03851 от 14.04.2025;The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках;2.1.4. Certificate of approval № 6528 dated 22.10.2024/ Сертификат качества № 6528 от 22.10.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Incorrect translation of steel grade: 17G1S-U, 17G1S-U(K52)/ Некорректный перевод марки стали: 17Г1С-У, 17Г1С-У(К52);2.1.5. Certificate of approval № 7007 dated 13.11.2024/ Сертификат качества № 7007 от 13.11.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Incorrect translation of steel grade: 17G1S-U, 09GSF(K52), 20A(K48)/ Некорректный перевод марки стали: 17Г1С-У, 09ГСФ(К52), 20А(К48);2.1.6. Certificate of approval № 502 dated 01.12.2024/ Сертификат качества № 502 от 01.12.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;Translation of steel grade is not performed in full position 1-8 of Quality Certificate No. 502 dated 01.12.2024/ Перевод марки стали выполнен не в полном объеме позиция 1-8 Сертификата качества № 502 от 01.12.2024;2.1.7. Certificate of approval № 20249 dated 19.09.2024/ Сертификат качества № 20249 от 19.09.2024:The manufacturing plant does not correspond to the specification of the Delivery Contract/ Завод-изготовитель не соответствует спецификации Договора поставки;The 1st page of the certificate copy in Russian and English languages is not certified/ Не заверен 1-й лист копии сертификата на русском и английском языках.",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    },
-    {
-      "type": "table",
-      "anchor": null,
-      "rows": [
-        {
-          "row": 0,
-          "col": 0,
-          "text": "2.2. Remarks for visual, measurement and other inspections including Materials completeness (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": true,
-          "anchor": null
-        },
-        {
-          "row": 1,
-          "col": 0,
-          "text": "2.3. Remarks for preservation and/or anticorrosive coating (none, or give comments): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 2,
-          "col": 0,
-          "text": "2.4. Nonconformities (none, or give comments, Nonconformity Report no.): NONE",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 3,
-          "col": 0,
-          "text": "Conclusion:MATERIALS ARE                         ☐ ACCEPTED                          ☒ REJECTED",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 4,
-          "col": 0,
-          "text": "Attachments:1. Certificate of approval/Сертификат качества № 001310/ 09 dated 19.11.2024 (2 pages);2. Certificate of approval/Сертификат качества № 21677/568 dated 19.03.2024 (1 page);3. Certificate of approval/Сертификат качества № AK-452353/09 dated 19.07.2024 (2 pages);4. Certificate of approval/Сертификат качества № 6528 dated 22.10.2024 (1 page);5. Certificate of approval/Сертификат качества № 7007 dated 13.11.2024 (1 page);6. Certificate of approval/Сертификат качества № 502 dated 01.12.2024 (1 page);7. Certificate of approval/Сертификат качества № 20249 dated 19.09.2024 (2 pages);8. Packing list / Упаковочный лист № 0303-03/2025 dated 03.03.2025 (2 pages).",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 5,
-          "col": 0,
-          "text": "Representatives for the incoming inspection of Materials:",
-          "gridspan": 5,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 0,
-          "text": "Company",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 1,
-          "text": "Position",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 2,
-          "text": "Name of representatives",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 3,
-          "text": "Date",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 6,
-          "col": 4,
-          "text": "Signature",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 1,
-          "text": "Deputy Director for Quality",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 2,
-          "text": "Moiseenko Aleksandr",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 3,
-          "text": "14.04.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 7,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 1,
-          "text": "Chief Specialist of the Product Verification Department",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 2,
-          "text": "Poddubnyi Sergei",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 3,
-          "text": "14.04.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 8,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 0,
-          "text": "NIKIMT-Atomstroy JSC",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 1,
-          "text": "Chief Specialist of the group for the supply of basic materials",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 2,
-          "text": "Dunaev Konstantin",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 3,
-          "text": "14.04.2025",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        },
-        {
-          "row": 9,
-          "col": 4,
-          "text": "",
-          "gridspan": 1,
-          "vmerge": null,
-          "is_header": false,
-          "anchor": null
-        }
-      ]
-    }
-  ]
+    ]
 }
